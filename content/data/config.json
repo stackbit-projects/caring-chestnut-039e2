@@ -153,5 +153,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://caring-chestnut-039e2.netlify.app"
+    "domain": "https://caring-chestnut-039e2.netlify.app",
+    "favicon": "/images/whatshot_white_48dp.svg"
 }
